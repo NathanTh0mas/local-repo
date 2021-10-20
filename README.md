@@ -9,5 +9,5 @@ How to use Git and GitHub
 * git branch
 * git checkout
 
-## shortcut
-* LEEERROOOYYY JJEENNKKIIINNNNSSS 
+## shortcuts
+* commit -am: adds and commits changes to modified files only
