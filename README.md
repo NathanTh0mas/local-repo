@@ -1,5 +1,12 @@
 # Demo
-Making a repository from a local computer 
+How to use Git and GitHub 
 
-## Commands required
- git init 
+## Making a repository from a local computer
+git init 
+git remote
+
+## Making a repository from a local computer
+git branch
+git checkout
+
+ 
