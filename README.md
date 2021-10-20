@@ -9,5 +9,5 @@ How to use Git and GitHub
 * git branch
 * git checkout
 
-## shortcuts
+## shortcut
 * LEEERROOOYYY JJEENNKKIIINNNNSSS 
